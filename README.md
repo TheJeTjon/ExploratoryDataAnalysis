@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-This iis the repository for the course Exploratory Data Analysis and itsCourse Project 1.
+This iis the repository for the course Exploratory Data Analysis and its Course Project #1.
 
 For the full description of the assignment please follow the following url: https://github.com/rdpeng/ExData_Plotting1
 
