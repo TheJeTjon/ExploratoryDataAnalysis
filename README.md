@@ -1,6 +1,7 @@
 # Exploratory Data Analysis
 This the repository for the course Exploratory Data Analysis an the assignement Course Project 1.
-for the full description of the assignment please follow the following url: https://github.com/rdpeng/ExData_Plotting1
+
+For the full description of the assignment please follow the following url: https://github.com/rdpeng/ExData_Plotting1
 
 The assignment concerned Base plotting in R. 
 
