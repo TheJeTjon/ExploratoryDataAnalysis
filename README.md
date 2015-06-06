@@ -5,9 +5,13 @@ for the full description of the assignment please follow the following url: http
 The assignment concerned Base plotting in R. 
 
 This repository contains four R scripts, each generating a plot to a corresponding .png file: 
+
 plot1.R > plot1.png  
+
 plot2.R > plot2.png
+
 plot3.R > plot3.png
+
 plot4.R > plot4.png
 
 All scripts contain the following functionality: 
